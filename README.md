@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [my new website](https://github.com/CWright2022/cwright2022.github.io)<br>🌱 I’m currently learning about C and x86 assembly<br>💬 Ask me about anything cybersecurity!<br>⚡ Fun fact - I am a named inventor on a US Patent!
+🔭 I’m currently working on [a little gift](https://github.com/CWright2022/jennamessage)<br>🌱 I’m currently learning about web app and mobile device security<br>💬 Ask me about anything cybersecurity!<br>⚡ Fun fact - I am a named inventor on a US Patent!
 
 
 ## 🌐 Socials:
